@@ -18,6 +18,12 @@
 * 🏆 Leaderboard and personal stats
 * ✅ Two types of tasks: multiple choice or text input
 
+## Demonstation of work
+
+YouTube video:
+
+[![Video](https://img.youtube.com/vi/JdnDW3tKpUg/0.jpg)](https://www.youtube.com/watch?v=JdnDW3tKpUg)
+
 ## Credits
 Frameworks/libraries used: Aiogram, SQLAlchemy, Aiosqlite, APScheduler.
 
